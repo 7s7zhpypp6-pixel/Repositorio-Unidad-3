@@ -1,0 +1,5 @@
+1|suscripcion|1000|premiun
+2|calculo|100|matematicas
+3|geometria|100|matematicas
+4|literatura|100|español
+5|aritmetica|100|matematicas
